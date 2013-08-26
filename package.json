@@ -1,0 +1,11 @@
+{
+	"name": "dirc",
+	"description": "a small irc library for D",
+	"homepage": "",
+	"copyright": "",
+	"authors": [
+		"tobiewarburton"
+	],
+	"dependencies": {
+	}
+}
